@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oKtad7G57xE+7P1W/uH+N+2z7ZbsAlXohsDoHAxvqUVT56XG+xvwyNGI1RgALm//oZJv+0lTWbyAcHYCjBaqOQ==",
+  "dgSpecHash": "a9uHnreHwnI3jhQEAK30bcPAVEh+ot+PVzYLjPpNorqSDau/lI9n1lw35n6v3OnEpQYW3vnMzz4ZkRoUjP0PCw==",
   "success": true,
-  "projectFilePath": "D:\\C#,.NET 2023\\Bug Tracker Project 4\\BugTrackerWebApplication\\BugTrackerWebApplication.csproj",
+  "projectFilePath": "d:\\BugTrackerWebApplication\\Bug Tracker\\BugTrackerWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\strea\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\strea\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

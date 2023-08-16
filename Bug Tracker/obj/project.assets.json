@@ -11061,11 +11061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#,.NET 2023\\Bug Tracker Project 4\\BugTrackerWebApplication\\BugTrackerWebApplication.csproj",
+      "projectUniqueName": "d:\\BugTrackerWebApplication\\Bug Tracker\\BugTrackerWebApplication.csproj",
       "projectName": "BugTrackerWebApplication",
-      "projectPath": "D:\\C#,.NET 2023\\Bug Tracker Project 4\\BugTrackerWebApplication\\BugTrackerWebApplication.csproj",
+      "projectPath": "d:\\BugTrackerWebApplication\\Bug Tracker\\BugTrackerWebApplication.csproj",
       "packagesPath": "C:\\Users\\strea\\.nuget\\packages\\",
-      "outputPath": "D:\\C#,.NET 2023\\Bug Tracker Project 4\\BugTrackerWebApplication\\obj\\",
+      "outputPath": "d:\\BugTrackerWebApplication\\Bug Tracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11081,6 +11081,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11143,7 +11144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
